@@ -1,4 +1,4 @@
-- 👋 Hi, I’m rpviana, im 15, I live in Portugal and this is my readme.
+- 👋 Hi, I’m rpviana, im 16, I live in Portugal and this is my readme.
 - 👀 I’m interested in learning, programming, playing football and videogames
 - 🌱 I’m currently learning Python, HTML and JS.
 - 💞️ I'm looking to learn more about the world of computers
