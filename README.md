@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning, programming, playing football and videogames
 - 🌱 I’m currently learning Python, HTML and JS.
 - 💞️ I'm looking to learn more about the world of computers
-- If you need anything you can contact me on my email: a14548@oficina.pt or my instagram: rpviana2005
+- If you need anything you can contact me on my email: rodrigopvianaa@outlook.pt or my instagram: rpviana2005
 
 <!---
 rpviana/rpviana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
