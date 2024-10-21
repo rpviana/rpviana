@@ -14,7 +14,7 @@ I'm a programmer focused on **SQL** and passionate about data management and dev
 ---
 
 ## 🚀 Featured Projects:
-- [**Project Name 1**](link) - Brief description of the project. Technologies used: ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
+- [**Nodejs_Site**](link) - Brief description of the project. Technologies used: ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
 - [**Project Name 2**](link) - Brief description of the project. Technologies used: ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
 
 ---
