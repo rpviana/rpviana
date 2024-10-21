@@ -27,8 +27,6 @@ I'm aspiring to become a **Software Developer**, with a strong focus on **databa
 
 ## 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rpviana&show_icons=true&theme=radical&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rpviana&layout=compact&theme=radical&hide=html,css)
 
 ---
