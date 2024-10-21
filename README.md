@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Viana!
+[# 👋 Hello, I'm Viana!
 
 I'm a programmer focused on **SQL** and passionate about data management and development.
 
@@ -40,4 +40,4 @@ I'm a programmer focused on **SQL** and passionate about data management and dev
 
 ---
 
-<img src="https://c.tenor.com/xyz.gif" alt="coding gif" width="500"/>
+<img src="https://c.tenor.com/xyz.gif" alt="coding gif" width="500"/>](https://www.linkedin.com/in/rodrigo-viana-b770242a1/)
