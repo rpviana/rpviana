@@ -4,6 +4,31 @@ I'm aspiring to become a **Software Developer**, with a strong focus on **databa
 
 ---
 
+## Frontend:
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+---
+
+## Backend:
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+</p>
+
+---
+
+## Databases:
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
+
+---
+
 ## 🌍 Languages I Speak:
 - ![Portuguese](https://img.shields.io/badge/Portuguese-Native-3D8B3D?style=for-the-badge&logo=portuguese&logoColor=white)
 - ![Russian](https://img.shields.io/badge/Russian-Basic-0077B5?style=for-the-badge&logo=russian&logoColor=white)
@@ -21,7 +46,8 @@ I'm aspiring to become a **Software Developer**, with a strong focus on **databa
 ---
 
 ## 🌐 Find Me Online:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/rodrigo-viana-b770242a1/)) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/your-profile](https://www.instagram.com/rpviana2005/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/rodrigo-viana-b770242a1/)) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/your-profile](https://www.instagram.com/rpviana2005/))
 
 ---
 
@@ -40,4 +66,3 @@ I'm aspiring to become a **Software Developer**, with a strong focus on **databa
 ---
 
 <img src="https://c.tenor.com/xyz.gif" alt="coding gif" width="500"/>
-
