@@ -4,6 +4,18 @@ I'm aspiring to become a **Software Developer**, with a strong focus on **databa
 
 ---
 
+## Social Media:
+<p>
+  <a href="https://www.linkedin.com/in/rodrigo-viana-b770242a1/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/rpviana2005/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+---
+
 ## Frontend:
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
@@ -61,12 +73,6 @@ I'm aspiring to become a **Software Developer**, with a strong focus on **databa
 - [**Nodejs_Site**](https://github.com/rpviana/Nodejs_Site) - A web project using JavaScript, Node.js, and JSON for backend and API handling. Technologies used: ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=nodedotjs&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
   
 - [**FlappyBird**](https://github.com/rpviana/FlappyBird) - A recreation of the classic Flappy Bird game using Java. Technologies used: ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-
----
-
-## 🌐 Find Me Online:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/rodrigo-viana-b770242a1/)) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/your-profile](https://www.instagram.com/rpviana2005/))
 
 ---
 
