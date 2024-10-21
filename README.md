@@ -1,11 +1,14 @@
-# Olá, eu sou o Alexandre Viana, Desenvolvedor Web Full Stack | Front-End | Back-End
+# Hi, I'm Rodrigo Viana, I'm a student and I love programming, I would like to be a Web Full Stack | Front-End | Back-End
 
 <p align="left">
-  <a href="mailto:alexandre.viana@example.com">
+  <a href="mailto:rodrigopvianaa@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/rodrigo-viana-b770242a1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/rpviana2005/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
