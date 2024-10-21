@@ -1,34 +1,35 @@
-[# 👋 Hello, I'm Viana!
+# 👋 Hello, I'm Viana!
 
-I'm a programmer focused on **SQL** and passionate about data management and development.
+I'm aspiring to become a **Software Developer**, with a strong focus on **databases** and continuous learning in the world of programming.
 
 ---
 
 ## 🌍 Languages I Speak:
 - ![Portuguese](https://img.shields.io/badge/Portuguese-Native-3D8B3D?style=for-the-badge&logo=portuguese&logoColor=white)
 - ![Russian](https://img.shields.io/badge/Russian-Basic-0077B5?style=for-the-badge&logo=russian&logoColor=white)
-- ![English](https://img.shields.io/badge/English-Advanced-0077B5?style=for-the-badge&logo=english&logoColor=white)
+- ![English](https://img.shields.io/badge/English-Advanced-FF0000?style=for-the-badge&logo=english&logoColor=white)
 - ![Spanish](https://img.shields.io/badge/Spanish-Intermediate-F7DF1E?style=for-the-badge&logo=spanish&logoColor=black)
 - ![French](https://img.shields.io/badge/French-Basic-1DA1F2?style=for-the-badge&logo=french&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects:
-- [**Nodejs_Site**](https://github.com/rpviana/Nodejs_Site) - Brief description of the project. Technologies used: ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
-- [**FlappyBird**](link) - Brief description of the project. Technologies used: ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
+- [**Nodejs_Site**](https://github.com/rpviana/Nodejs_Site) - A web project using JavaScript, Node.js, and JSON for backend and API handling. Technologies used: ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=nodedotjs&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
+  
+- [**FlappyBird**](https://github.com/rpviana/FlappyBird) - A recreation of the classic Flappy Bird game using Java. Technologies used: ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 
 ---
 
 ## 🌐 Find Me Online:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-profile)
 
 ---
 
 ## 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rpviana&show_icons=true&theme=radical&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide=html,css)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rpviana&layout=compact&theme=radical&hide=html,css)
 
 ---
 
@@ -40,4 +41,5 @@ I'm a programmer focused on **SQL** and passionate about data management and dev
 
 ---
 
-<img src="https://c.tenor.com/xyz.gif" alt="coding gif" width="500"/>](https://www.linkedin.com/in/rodrigo-viana-b770242a1/)
+<img src="https://c.tenor.com/xyz.gif" alt="coding gif" width="500"/>
+
