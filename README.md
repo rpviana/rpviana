@@ -5,11 +5,11 @@ I'm a programmer focused on **SQL** and passionate about data management and dev
 ---
 
 ## 🌍 Languages I Speak:
-- ![Portuguese](https://img.shields.io/badge/Portuguese-Native-3D8B3D?style=for-the-badge&logo=portuguese&logoColor=white) **Portuguese** (Native)
-- ![Russian](https://img.shields.io/badge/Russian-Basic-0077B5?style=for-the-badge&logo=russian&logoColor=white) **Russian** (Basic)
-- ![English](https://img.shields.io/badge/English-Advanced-0077B5?style=for-the-badge&logo=english&logoColor=white) **English** (Advanced)
-- ![Spanish](https://img.shields.io/badge/Spanish-Intermediate-F7DF1E?style=for-the-badge&logo=spanish&logoColor=black) **Spanish** (Intermediate)
-- ![French](https://img.shields.io/badge/French-Basic-1DA1F2?style=for-the-badge&logo=french&logoColor=white) **French** (Basic)
+- ![Portuguese](https://img.shields.io/badge/Portuguese-Native-3D8B3D?style=for-the-badge&logo=portuguese&logoColor=white)
+- ![Russian](https://img.shields.io/badge/Russian-Basic-0077B5?style=for-the-badge&logo=russian&logoColor=white)
+- ![English](https://img.shields.io/badge/English-Advanced-0077B5?style=for-the-badge&logo=english&logoColor=white)
+- ![Spanish](https://img.shields.io/badge/Spanish-Intermediate-F7DF1E?style=for-the-badge&logo=spanish&logoColor=black)
+- ![French](https://img.shields.io/badge/French-Basic-1DA1F2?style=for-the-badge&logo=french&logoColor=white)
 
 ---
 
