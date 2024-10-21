@@ -13,7 +13,7 @@ I'm aspiring to become a **Software Developer**, with a strong focus on **databa
 
 ---
 
-## 🚀 Featured Projects:
+## 🚀 Projects:
 - [**Nodejs_Site**](https://github.com/rpviana/Nodejs_Site) - A web project using JavaScript, Node.js, and JSON for backend and API handling. Technologies used: ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=nodedotjs&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
   
 - [**FlappyBird**](https://github.com/rpviana/FlappyBird) - A recreation of the classic Flappy Bird game using Java. Technologies used: ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
