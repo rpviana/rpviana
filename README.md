@@ -1,4 +1,4 @@
-# Hi, I'm Rodrigo Viana, I'm a student and I love programming. I would like to be a Web Full Stack | Front-End | Back-End
+# Hi, I'm Rodrigo Viana, I'm a student and I love programming. I would like to be a Web Developer Full Stack | Front-End | Back-End
 
 <p align="left">
   <a href="mailto:rodrigopvianaa@gmail.com">
