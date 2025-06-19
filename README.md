@@ -71,9 +71,9 @@
 
 ---
 
-## 🎯 Goals for 2024:
-- Learn **Django**.
-- Learn **C#**.
+## 🎯 Goals for 2025:
+- Start a big **project** alone.
+- Increase my knowledge in **C#**.
 - Contribute more to open-source projects.
 - Continue developing skills in **SQL** and **data management**.
 
