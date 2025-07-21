@@ -44,38 +44,35 @@ I love building things that solve real problems and learning new technologies ev
 
 ---
 
-## 🔧 Frameworks & Libraries
+## 🔧 Framework
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
 </p>
 
 ---
 
-## 🌍 Languages
-<p>
-  <img src="https://img.shields.io/badge/Portuguese-Native-3D8B3D?style=for-the-badge&logo=portuguese&logoColor=white" alt="Portuguese" />
-  <img src="https://img.shields.io/badge/English-Advanced-FF0000?style=for-the-badge&logo=english&logoColor=white" alt="English" />
-  <img src="https://img.shields.io/badge/Spanish-Intermediate-F7DF1E?style=for-the-badge&logo=spanish&logoColor=black" alt="Spanish" />
-  <img src="https://img.shields.io/badge/Russian-Basic-0077B5?style=for-the-badge&logo=russian&logoColor=white" alt="Russian" />
-  <img src="https://img.shields.io/badge/French-Basic-1DA1F2?style=for-the-badge&logo=french&logoColor=white" alt="French" />
-</p>
+## 🌍 Languages I Speak
+- ![Portuguese](https://img.shields.io/badge/Portuguese-Native-3D8B3D?style=for-the-badge&logo=portuguese&logoColor=white)
+- ![English](https://img.shields.io/badge/English-Advanced-FF0000?style=for-the-badge&logo=english&logoColor=white)
+- ![Spanish](https://img.shields.io/badge/Spanish-Intermediate-F7DF1E?style=for-the-badge&logo=spanish&logoColor=black)
+- ![Russian](https://img.shields.io/badge/Russian-Basic-0077B5?style=for-the-badge&logo=russian&logoColor=white)
+- ![French](https://img.shields.io/badge/French-Basic-1DA1F2?style=for-the-badge&logo=french&logoColor=white)
 
 ---
 
 ## 💼 Projects
+- **[VienReps](https://github.com/rpviana/VienReps)**  
+  A clothing catalog website with search, filters, dark mode, and admin panel to manage products. Built with PHP, MySQL and styled for modern e‑commerce.
+- **[Poetry Calendar](https://github.com/rpviana/PoetryCalendar)**  
+  A creative daily poem website where you can reveal one poem per day based on the date. Focused on UX and playful interaction.
 - **[Nodejs_Site](https://github.com/rpviana/Nodejs_Site)**  
   A dynamic site using JavaScript, Node.js & JSON for backend and API handling.
-- **[FlappyBird](https://github.com/rpviana/FlappyBird)**  
-  A Java recreation of the classic Flappy Bird game.
 
 ---
 
 ## 🎯 Goals for 2025
 - Launch a significant solo project from start to finish  
-- Master C# and ASP.NET Core by building real‑world apps  
-- Deepen my frontend expertise with React TypeScript
+- Master C# and Django by building real‑world apps  
+- Deepen my frontend expertise with React & TypeScript
 
 ---
