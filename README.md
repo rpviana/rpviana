@@ -1,4 +1,7 @@
-# Hi, I'm Rodrigo Viana, I'm a student and I love programming. I would like to be a Web Developer Full Stack | Front-End | Back-End
+# 👋 Hello, I’m Rodrigo Viana
+
+🎓 A programming student on a mission to become a **Full‑Stack Web Developer**.  
+I love building things that solve real problems and learning new technologies every day.
 
 <p align="left">
   <a href="mailto:a14548@oficina.pt">
@@ -14,70 +17,65 @@
 
 ---
 
-## Frontend:
+## 🌟 What I Do
+- Build responsive, user‑friendly websites and apps  
+- Tackle both **Front‑End** and **Back‑End** challenges  
+- Constantly explore new tools and best practices
+
+---
+
+## 🎨 Front‑End
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
 </p>
 
 ---
 
-## Backend:
+## 🛠️ Back‑End
 <p>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 </p>
 
 ---
 
-## Databases:
+## 🔧 Frameworks & Libraries
 <p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
 </p>
 
 ---
 
-## Tools:
+## 🌍 Languages
 <p>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Portuguese-Native-3D8B3D?style=for-the-badge&logo=portuguese&logoColor=white" alt="Portuguese" />
+  <img src="https://img.shields.io/badge/English-Advanced-FF0000?style=for-the-badge&logo=english&logoColor=white" alt="English" />
+  <img src="https://img.shields.io/badge/Spanish-Intermediate-F7DF1E?style=for-the-badge&logo=spanish&logoColor=black" alt="Spanish" />
+  <img src="https://img.shields.io/badge/Russian-Basic-0077B5?style=for-the-badge&logo=russian&logoColor=white" alt="Russian" />
+  <img src="https://img.shields.io/badge/French-Basic-1DA1F2?style=for-the-badge&logo=french&logoColor=white" alt="French" />
 </p>
 
 ---
 
-## 🌍 Languages I Speak:
-- ![Portuguese](https://img.shields.io/badge/Portuguese-Native-3D8B3D?style=for-the-badge&logo=portuguese&logoColor=white)
-- ![Russian](https://img.shields.io/badge/Russian-Basic-0077B5?style=for-the-badge&logo=russian&logoColor=white)
-- ![English](https://img.shields.io/badge/English-Advanced-FF0000?style=for-the-badge&logo=english&logoColor=white)
-- ![Spanish](https://img.shields.io/badge/Spanish-Intermediate-F7DF1E?style=for-the-badge&logo=spanish&logoColor=black)
-- ![French](https://img.shields.io/badge/French-Basic-1DA1F2?style=for-the-badge&logo=french&logoColor=white)
+## 💼 Projects
+- **[Nodejs_Site](https://github.com/rpviana/Nodejs_Site)**  
+  A dynamic site using JavaScript, Node.js & JSON for backend and API handling.
+- **[FlappyBird](https://github.com/rpviana/FlappyBird)**  
+  A Java recreation of the classic Flappy Bird game.
 
 ---
 
-## 🚀 Projects:
-- [**Nodejs_Site**](https://github.com/rpviana/Nodejs_Site) - A web project using JavaScript, Node.js, and JSON for backend and API handling. Technologies used: ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=nodedotjs&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
-  
-- [**FlappyBird**](https://github.com/rpviana/FlappyBird) - A recreation of the classic Flappy Bird game using Java. Technologies used: ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+## 🎯 Goals for 2025
+- Launch a significant solo project from start to finish  
+- Master C# and ASP.NET Core by building real‑world apps  
+- Deepen my frontend expertise with React TypeScript
 
 ---
-
-## 📊 GitHub Stats:
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rpviana&layout=compact&theme=radical&hide=html,css)
-
----
-
-## 🎯 Goals for 2025:
-- Start a big **project** alone.
-- Increase my knowledge in **C#**.
-- Contribute more to open-source projects.
-- Continue developing skills in **SQL** and **data management**.
-
----
-
-<img src="https://c.tenor.com/xyz.gif" alt="coding gif" width="500"/>
-
