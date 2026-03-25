@@ -1,7 +1,7 @@
-# Rodrigo Viana
+# Welcome to My Project
 
-## Full-Stack Web Developer
+This is a sample README file with the correct Spotify widget.
 
-| Top Languages | Spotify Widget |
-| -------------- | -------------- |
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rpviana&theme=radical) | <iframe src="https://open.spotify.com/embed/user/u6rw385bskhf1s2ecv0omi150" width="300" height="380" frameBorder="0" allowTransparency="true" allow="encrypted-media"></iframe> |
+<iframe src="https://spotify-github-profile.vercel.app/api/view?uid=u6rw385bskhf1s2ecv0omi150&theme=spotify-embed" width="100%" height="300" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+Enjoy exploring my project!
