@@ -51,7 +51,7 @@ fun_fact: I speak 5 languages and write code in all of them 😄
 <p align="center">
   <a href="https://open.spotify.com" target="_blank">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=rpviana&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=u6rw385bskhf1s2ecv0omi150&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" />
       <source media="(prefers-color-scheme: light)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=rpviana&cover_image=true&theme=default&show_offline=true&background_color=ffffff&interchange=true&bar_color=53b14f&bar_color_cover=false" />
       <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=rpviana&cover_image=true&theme=default&show_offline=true&background_color=ffffff&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="350" />
     </picture>
